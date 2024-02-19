@@ -1,0 +1,3 @@
+- This repository contains code for a simple yet effective inverse rendering method from sparse views. 
+- The code references the implementation of [Invrender](https://github.com/zju3dv/InvRender). We are grateful to the authors for releasing their code.
+- We use [Omnidata](https://github.com/EPFL-VILAB/omnidata) to get monocular normal maps and [PIE-Net](https://github.com/Morpheus3000/PIE-Net) to get monocular albedo maps to supervise decomposed components.
